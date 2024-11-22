@@ -1,3 +1,3 @@
 # Programas
 
-En este repositorio se subirán los programas trabajados en clase y los de tarea.
+En este repositorio se subirán los programas hechos en clase. 
