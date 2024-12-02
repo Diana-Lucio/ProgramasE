@@ -1,18 +1,13 @@
 - Operaciones Matemáticas:
-
 print(1 + 2): Imprime el resultado de la suma de 1 y 2, que es 3.
-
 print(1 - 2): Imprime el resultado de la resta de 2 a 1, que es -1.
-
 print(1 * 2): Imprime el resultado de la multiplicación de 1 por 2, que es 2.
 
 - Concatenación de Cadenas:
-
 print("Concatenando cadenas " + "está bien"): Imprime la concatenación de las cadenas "Concatenando cadenas " y "está bien", 
 resultando en "Concatenando cadenas está bien".
 
 - Comentario de Línea:
-
 # print("Concatenando cadenas " - " está mal"): Esta línea está comentada y no se ejecuta. Si se intentara ejecutar, daría un error porque la resta no es 
 una operación válida para cadenas de texto en Python.
 
