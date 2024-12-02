@@ -1,0 +1,32 @@
+- Operador IGUAL (==):
+print(5 == 7): Compara si 5 es igual a 7. Resultado: False.
+print(5 == 5): Compara si 5 es igual a 5. Resultado: True.
+print(5.0 == 5): Compara si 5.0 es igual a 5. Resultado: True (porque 5.0 y 5 son equivalentes en valor numérico).
+
+- Operador DIFERENTE o NO IGUAL (!=):
+print(5 != 5): Compara si 5 es diferente de 5. Resultado: False.
+print(10 != 7): Compara si 10 es diferente de 7. Resultado: True.
+print(5.0 != 5): Compara si 5.0 es diferente de 5. Resultado: False.
+
+- Operador MAYOR QUE (>):
+print(10 > 5): Compara si 10 es mayor que 5. Resultado: True.
+print(3 > 9): Compara si 3 es mayor que 9. Resultado: False.
+print(8 > 8): Compara si 8 es mayor que 8. Resultado: False (porque son iguales).
+
+- Operador MENOR QUE (<):
+print(5 < 8): Compara si 5 es menor que 8. Resultado: True.
+print(12 < 6): Compara si 12 es menor que 6. Resultado: False.
+print(0 < 0): Compara si 0 es menor que 0. Resultado: False (porque son iguales).
+
+- Operador MENOR o IGUAL QUE (<=):
+print(4 <= 7): Compara si 4 es menor o igual que 7. Resultado: True.
+print(11 <= 2): Compara si 11 es menor o igual que 2. Resultado: False.
+print(1 <= 1): Compara si 1 es menor o igual que 1. Resultado: True.
+
+- Operador MAYOR o IGUAL QUE (>=):
+print(13 >= 3): Compara si 13 es mayor o igual que 3. Resultado: True.
+print(6 >= 6): Compara si 6 es mayor o igual que 6. Resultado: True.
+print(14 >= 20): Compara si 14 es mayor o igual que 20. Resultado: False.
+
+-Resultado:
+El programa imprime los resultados de cada comparación, demostrando cómo funcionan los operadores de comparación en Python.
