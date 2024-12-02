@@ -1,0 +1,15 @@
+- Definición de la Cadena:
+word = "hamster": Define la variable word con el valor "hamster".
+
+- Acceso a Caracteres con Índices Negativos:
+print(word[-1]): Accede al último carácter de la cadena. En este caso, -1 hace referencia al último carácter de "hamster", que es "r".
+print(word[1:-1]): Utiliza slicing con índices desde el segundo carácter (índice 1) hasta el penúltimo carácter (índice -1). Esto resulta en "amste".
+print(word[-3:]): Utiliza slicing desde el tercer carácter desde el final (índice -3) hasta el final de la cadena. Esto resulta en "ter".
+print(word[:3]): Utiliza slicing desde el inicio de la cadena hasta el tercer carácter (sin incluirlo, índice 3). Esto resulta en "ham".
+
+- Resultado:
+El programa muestra:
+El último carácter de "hamster": r
+La subcadena desde el segundo carácter hasta el penúltimo: amste
+Los últimos tres caracteres: ter
+Los primeros tres caracteres: ham
