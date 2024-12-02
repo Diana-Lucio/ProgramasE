@@ -1,0 +1,18 @@
+- Entrada de Datos:
+dias = int(input("Ingresa el número de días: ")): Solicita al usuario que ingrese el número de días y lo convierte a un entero (int).
+
+- Cálculo de Horas:
+horas = dias * 24: Calcula el número de horas multiplicando el número de días por 24 (ya que un día tiene 24 horas).
+
+- Cálculo de Minutos:
+minutos = horas * 60: Calcula el número de minutos multiplicando el número de horas por 60 (ya que una hora tiene 60 minutos).
+
+-Cálculo de Meses:
+meses = dias / 30: Calcula el número de meses dividiendo el número de días entre 30 (asumiendo un mes promedio de 30 días).
+
+- Impresión de Resultados:
+print("El número de minutos es: " + str(minutos)): Convierte el resultado del cálculo de minutos a una cadena de texto y lo imprime junto con un mensaje.
+print("El número de horas es: " + str(horas)): Convierte el resultado del cálculo de horas a una cadena de texto y lo imprime junto con un mensaje.
+print("El número de meses es: " + str(meses)): Convierte el resultado del cálculo de meses a una cadena de texto y lo imprime junto con un mensaje.
+
+- Resultado: El programa muestra el número de minutos, horas y meses basados en el número de días ingresados por el usuario.
