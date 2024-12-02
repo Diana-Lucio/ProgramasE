@@ -1,0 +1,24 @@
+- Solicitud de Calificaciones:
+num1 = float(input("Calificación de la unidad 1: ")): Solicita al usuario que ingrese la calificación de la unidad 1 y la convierte a un número de punto flotante 
+(float).
+num2 = float(input("Calificación de la unidad 2: ")): Solicita al usuario que ingrese la calificación de la unidad 2 y la convierte a un número de punto flotante 
+(float).
+num3 = float(input("Calificación de la unidad 3: ")): Solicita al usuario que ingrese la calificación de la unidad 3 y la convierte a un número de punto flotante 
+(float).
+num4 = float(input("Calificación de la unidad 4: ")): Solicita al usuario que ingrese la calificación de la unidad 4 y la convierte a un número de punto flotante
+(float).
+num5 = float(input("Calificación de la unidad 5: ")): Solicita al usuario que ingrese la calificación de la unidad 5 y la convierte a un número de punto flotante 
+(float).
+
+- Cálculo del Promedio de Calificaciones:
+calificaciones = (num1 + num2 + num3 + num4 + num5) / 5: Calcula el promedio sumando todas las calificaciones y dividiendo el total entre 5.
+
+- Condición con if y else:
+if calificaciones >= 7:: Verifica si el promedio de las calificaciones es mayor o igual a 7.
+print("Aprobaste tus materias...¡Felicidades!"): Si la condición es verdadera (es decir, el promedio es 7 o mayor), imprime "Aprobaste tus materias...¡Felicidades!".
+else:: Si la condición es falsa (es decir, el promedio es menor de 7),
+print("Desaprobaste tus materias...vuelve a intentarlo, ¡tú puedes!"): Imprime "Desaprobaste tus materias...vuelve a intentarlo, ¡tú puedes!".
+
+- Resultado:
+El programa calcula el promedio de cinco calificaciones y muestra un mensaje indicando si el usuario aprobó o no la materia, basado en si el promedio es mayor o igual 
+a 7.
