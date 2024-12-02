@@ -1,0 +1,13 @@
+- Entrada de Datos:
+base = float(input("Ingresa el valor de la base: ")): Solicita al usuario que ingrese el valor de la base del triángulo y lo convierte a un número de punto flotante 
+(float).
+altura = float(input("Ingresa el valor de la altura: ")): Solicita al usuario que ingrese el valor de la altura del triángulo y lo convierte a un número de punto 
+flotante (float).
+
+- Cálculo del Área:
+área = base * altura / 2: Calcula el área del triángulo usando la fórmula debida.
+
+- Impresión del Resultado:
+print("El área del triángulo es: " + str(área)): Convierte el resultado del cálculo del área a una cadena de texto y lo imprime junto con un mensaje.
+
+- Resultado: El programa calcula y muestra el área del triángulo basándose en los valores de la base y la altura ingresados por el usuario.
