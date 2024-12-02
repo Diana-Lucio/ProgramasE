@@ -1,0 +1,12 @@
+- Solicitud de Edad:
+edad = int(input("¿Cuál es tu edad? ")): Solicita al usuario que ingrese su edad. La función input() toma la entrada del usuario como una cadena de texto, y int() 
+convierte esa cadena a un número entero.
+
+- Condición con if y else:
+if edad >= 18:: Verifica si la edad ingresada es mayor o igual a 18.
+print("Puedes ingresar al bar"): Si la condición es verdadera (es decir, la edad es 18 o mayor), imprime "Puedes ingresar al bar".
+else:: Si la condición es falsa (es decir, la edad es menor de 18),
+print("Ve a tu casa"): Imprime "Ve a tu casa".
+
+- Resultado:
+El programa determina si el usuario puede ingresar a un bar basado en su edad y muestra el mensaje correspondiente.
