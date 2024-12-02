@@ -1,0 +1,20 @@
+- Solicitud de Cantidad de Artículos:
+articulos = float(input("¿Cuántos artículos compró? ")): Solicita al usuario que ingrese la cantidad de artículos comprados. La función input() toma la entrada del 
+usuario como una cadena de texto, y float() convierte esa cadena a un número de punto flotante.
+
+- Condición con if y else:
+if articulos >= 3:: Verifica si la cantidad de artículos es mayor o igual a 3.
+total = articulos * 30: Si la condición es verdadera (es decir, el usuario compró 3 o más artículos), calcula el total multiplicando la cantidad de artículos por 30
+(precio unitario reducido).
+else:: Si la condición es falsa (es decir, el usuario compró menos de 3 artículos),
+total = articulos * 45: Calcula el total multiplicando la cantidad de artículos por 45 (precio unitario normal).
+
+- Impresión del Total:
+print("El total a pagar es: $" + str(total)): Convierte el valor del total a una cadena de texto con str() y lo imprime junto con un mensaje que indica el total a
+pagar.
+
+- Mensaje de Agradecimiento:
+print("¡Muchas gracias por comprar, que tenga un excelente día!"): Imprime un mensaje de agradecimiento al final.
+
+- Resultado:
+El programa calcula el total a pagar basado en la cantidad de artículos comprados y muestra el total junto con un mensaje de agradecimiento.
