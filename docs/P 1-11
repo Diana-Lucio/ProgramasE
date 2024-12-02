@@ -28,5 +28,8 @@ print(13 >= 3): Compara si 13 es mayor o igual que 3. Resultado: True.
 print(6 >= 6): Compara si 6 es mayor o igual que 6. Resultado: True.
 print(14 >= 20): Compara si 14 es mayor o igual que 20. Resultado: False.
 
+- Los saltos de línea (\n) se utilizan estratégicamente para crear espacios antes y después de imprimir la información, mejorar la legibilidad separando 
+visualmente los diferentes bloques de comparación y facilitar la lectura y comprensión de la salida en la consola.
+
 -Resultado:
 El programa imprime los resultados de cada comparación, demostrando cómo funcionan los operadores de comparación en Python.
