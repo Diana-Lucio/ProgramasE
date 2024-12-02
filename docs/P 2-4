@@ -1,0 +1,14 @@
+- Solicitud de Salario:
+salario = int(input("¿Cuál es tu salario? ")): Solicita al usuario que ingrese su salario. La función input() toma la entrada del usuario como una cadena de texto, 
+y int() convierte esa cadena a un número entero.
+
+- Cálculo del Impuesto:
+impuestos = salario * 0.16: Calcula los impuestos como el 16% del salario ingresado. El resultado se almacena en la variable impuestos.
+
+- Impresión del Resultado:
+print("Los impuestos son " + str(impuestos) + " pesos" + "\n ¡Gracias por usar nuestro sistema!"): Convierte el valor de impuestos a una cadena de texto con str() 
+y lo concatena con otros textos para formar un mensaje que indica el monto de los impuestos y agradece al usuario por usar el sistema. Este mensaje se imprime 
+en la consola.
+
+- Resultado:
+El programa calcula el 16% del salario ingresado como impuesto y muestra el monto de los impuestos junto con un mensaje de agradecimiento.
