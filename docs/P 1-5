@@ -1,0 +1,17 @@
+- Entrada de Números:
+num1 = int(input("Ingresa el primer número: ")): Solicita al usuario que ingrese el primer número y lo convierte a un entero.
+num2 = int(input("Ingresa el segundo número: ")): Solicita al usuario que ingrese el segundo número y lo convierte a un entero.
+
+Operaciones Aritméticas:
+suma = num1 + num2: Calcula la suma de num1 y num2.
+resta = num1 - num2: Calcula la resta de num2 a num1.
+multiplicación = num1 * num2: Calcula la multiplicación de num1 por num2.
+división = num1 / num2: Calcula la división de num1 entre num2.
+
+- Impresión de Resultados:
+print("El valor de la suma es: " + str(suma)): Imprime el resultado de la suma.
+print("El valor de la resta es: " + str(resta)): Imprime el resultado de la resta.
+print("El valor de la multiplicación es: " + str(multiplicación)): Imprime el resultado de la multiplicación.
+print("El valor de la división es: " + str(división)): Imprime el resultado de la división.
+
+- Resultado: El programa realiza y muestra el resultado de las cuatro operaciones aritméticas básicas con los dos números ingresados por el usuario.
