@@ -1,0 +1,8 @@
+- Operación NOT:
+print(not True): La operación not se aplica al valor True, invirtiéndolo y resultando en False. Esto se imprime en la consola.
+print(not False): La operación not se aplica al valor False, invirtiéndolo y resultando en True. Esto se imprime en la consola.
+
+- Resultado:
+El programa imprime:
+False, al invertir True.
+True, al invertir False.
