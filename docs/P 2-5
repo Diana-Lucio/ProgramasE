@@ -1,0 +1,19 @@
+- Comparación:
+print("Perro" == "Perro"): Compara si "Perro" es igual a "Perro". Resultado: True.
+print("Perro" != "Gato"): Compara si "Perro" es diferente de "Gato". Resultado: True.
+print("Aguascalientes" < "Zacatecas"): Compara si "Aguascalientes" es menor que "Zacatecas" en orden lexicográfico. Resultado: True.
+print("Aire" >= "Agua"): Compara si "Aire" es mayor o igual que "Agua" en orden lexicográfico. Resultado: True.
+
+- Membership:
+print("house" in "boathouse"): Comprueba si "house" está contenido dentro de "boathouse". Resultado: True.
+print("bien" in "bienvenidos"): Comprueba si "bien" está contenido dentro de "bienvenidos". Resultado: True.
+print("y" not in "ejes"): Comprueba si "y" no está contenido dentro de "ejes". Resultado: True.
+print("je" in "ejes"): Comprueba si "je" está contenido dentro de "ejes". Resultado: True.
+
+- Slicing:
+nombre = "Diana Lucio": Define la variable nombre con el valor "Diana Lucio".
+print(nombre[2:6]): Utiliza el slicing para obtener una subcadena de nombre desde el índice 2 hasta el 5 (inclusive). Resultado: ana.
+
+Resultado:
+El programa muestra los resultados de varias operaciones de comparación, pertenencia y slicing en la consola, demostrando el uso de estos operadores y técnicas en 
+Python.
