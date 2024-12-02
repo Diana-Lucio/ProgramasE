@@ -1,0 +1,14 @@
+- Caso 1:
+print(not(False or False)): Evalúa False or False que resulta en False, luego not False invierte el resultado a True. (Imprime "Si hay fiesta")
+
+- Caso 2:
+print(not(False or True)): Evalúa False or True que resulta en True, luego not True invierte el resultado a False. (Imprime "No hay fiesta")
+
+- Caso 3:
+print(not(True or False)): Evalúa True or False que resulta en True, luego not True invierte el resultado a False. (Imprime "No hay fiesta")
+
+- Caso 4:
+print(not(True or True)): Evalúa True or True que resulta en True, luego not True invierte el resultado a False. (Imprime "No hay fiesta")
+
+- Resultado
+El programa muestra el resultado de la operación not aplicada a combinaciones de valores booleanos con el operador or, demostrando cómo funciona la negación de OR.
