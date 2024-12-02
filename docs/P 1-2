@@ -1,0 +1,9 @@
+- Solicitud de Nombre: Utiliza input("Ingresa tu nombre: ") para pedir al usuario que ingrese su nombre. input() es una función que permite al usuario 
+ingresar texto desde el teclado.
+
+- Almacenamiento del Nombre: El nombre ingresado por el usuario se almacena en la variable nombre.
+
+- Impresión del Mensaje: Utiliza print("Hola, " + nombre ) para concatenar el texto "Hola, " con el nombre ingresado y luego imprimir el mensaje resultante.
+
+- Resultado: El programa saluda al usuario con su nombre, creando una interacción personalizada. Por ejemplo, si el usuario ingresa 
+"Diana", el programa imprimirá "Hola, Diana".
