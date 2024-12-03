@@ -1,7 +1,0 @@
-- Las líneas que comienzan con # son comentarios.
-Los comentarios no se ejecutan como parte del programa; sirven para documentar el código, explicarlo o proporcionar información adicional.
-
-- "print" es una función de Python que se utiliza para mostrar texto o resultados en la pantalla.
-
-"Hola, mi nombre es Diana" es una cadena de texto.
-- Cuando se ejecuta este programa la salida será:   Hola, mi nombre es Diana
