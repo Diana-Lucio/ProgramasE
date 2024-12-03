@@ -2,6 +2,4 @@
 # Fecha de elaboración: 2024/10/14 
 # Elaborado por: Diana Lucio 
 #.................................................................................................. 
-```
 print("Hola, mi nombre es Diana")
-```
