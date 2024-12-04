@@ -1,7 +1,0 @@
-- Concatenación de Cadenas de Texto:
-print("Mi " + "nombre " + "es " + "Diana"): Concatenación es el proceso de unir dos o más cadenas de texto en una sola cadena. 
-En este caso, se están concatenando las cadenas "Mi ", "nombre ", "es ", y "Diana" en una sola cadena, que resulta en "Mi nombre es Diana". 
-Luego, esta cadena concatenada se imprime en la consola.
-
-- Resultado:
-El programa muestra "Mi nombre es Diana" en la consola, utilizando la concatenación de varias cadenas de texto para formar una oración completa.
