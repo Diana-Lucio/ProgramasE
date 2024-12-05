@@ -3,7 +3,7 @@
 # Elaborado por: Diana Lucio 
 #.................................................................................................. 
 print("\n")
-plantas = ["Rosa","Lirio","Orquídea","Tulipán","Hortensia","Peonia","Familia","Lisianthus","Astromelia","Jazmín","Lavanda"]
+plantas = ["Rosa","Lirio","Orquídea","Tulipán","Hortensia","Peonia","Lisianthus","Astromelia","Jazmín","Lavanda"]
 # Imprimir cada planta en la lista
 print("Mis 10 plantas favoritas son:")
 for plantas in plantas:
