@@ -1,5 +1,5 @@
 # Programa 4.12- Programa que se repite indefinidamente hasta que se ingrese la palabra salir
-# Fecha de elaboración: 2024/10/09
+# Fecha de elaboración: 2024/11/15
 # Elaborado por: Diana Lucio   
 #..................................................................................................  
 print("\n")
