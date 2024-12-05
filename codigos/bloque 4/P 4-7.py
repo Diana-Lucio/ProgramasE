@@ -1,5 +1,5 @@
 # Programa 4.7- Calculadora con opciones de operaciones
-# Fecha de elaboración: 2024/10/06
+# Fecha de elaboración: 2024/11/14
 # Elaborado por: Diana Lucio 
 #.................................................................................................. 
 print("\n")
