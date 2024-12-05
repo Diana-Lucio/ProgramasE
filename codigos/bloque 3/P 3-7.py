@@ -2,7 +2,6 @@
 # Fecha de elaboración: 2024/10/30
 # Elaborado por: Diana Lucio 
 #.................................................................................................. 
-
 print("\n")
 cadenas = ["Juan","Pedro" ,"Chuy"]
 print(cadenas)
