@@ -1,5 +1,5 @@
 # Programa 4.10- Programa para demostrar el funcionamiento de los métodos upper() y lower()
-# Fecha de elaboración: 2024/10/08
+# Fecha de elaboración: 2024/11/15
 # Elaborado por: Diana Lucio   
 #..................................................................................................  
 print("\n")
