@@ -11,4 +11,3 @@ for numero in numeros:
     print("La lista original es: ", numeros)
     print("La nueva lista es: ", menores_50)
 print("\n")                             
-    
