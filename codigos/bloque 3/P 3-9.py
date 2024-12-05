@@ -1,4 +1,4 @@
-# Programa 3.8- Igualdad en listas
+# Programa 3.8- Igualdad en listas. Compare con todas las demas listas 
 # Fecha de elaboración: 2024/10/31
 # Elaborado por: Diana Lucio 
 #.................................................................................................. 
