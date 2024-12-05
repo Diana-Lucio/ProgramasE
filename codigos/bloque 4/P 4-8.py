@@ -1,5 +1,5 @@
 # Programa 4.8- Las estructuras WHILE se ejecutan mientras las condiciones que se encuentra la verdadera
-# Fecha de elaboración: 2024/10/07
+# Fecha de elaboración: 2024/11/14
 # Elaborado por: Diana Lucio   
 #..................................................................................................  
 print("\n")
