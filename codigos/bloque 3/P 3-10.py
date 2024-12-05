@@ -1,4 +1,4 @@
-# Programa 3.10- Igualdad en listas. Compare con todas las demas listas 
+# Programa 3.10- Lista de membership
 # Fecha de elaboración: 2024/10/31
 # Elaborado por: Diana Lucio 
 #.................................................................................................. 
