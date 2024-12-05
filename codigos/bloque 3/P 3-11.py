@@ -8,13 +8,5 @@ colores=["rojo", "azul"]
 print(colores)
 colores.append ("Verde")
 print(colores)
-
-#print(colores + "Amarillo") ESTO ES UN ERROR NO SE PUEDE CONCATENAR CADENAS DE TEXTO CON STR Y CADENA DE LISTA
-print("\n")
-
-print("Muestra como unir cadenas con .append une a Caramelos en la lista:")
-dulces =["Chicles", "Churros", "Gomitas"]
-print(dulces)
-dulces.append ("Caramelos")
-print(dulces)
+#print(colores + "Amarillo") es un ERROR
 print("\n")
