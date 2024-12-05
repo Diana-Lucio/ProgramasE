@@ -1,4 +1,4 @@
-# Programa 3.8- Listas con elementos: String, Int, Booleano
+# Programa 3.8- Tipo de datos lista y tipos de datos de los elementos
 # Fecha de elaboración: 2024/10/31
 # Elaborado por: Diana Lucio 
 #.................................................................................................. 
